@@ -23,7 +23,7 @@ Warning xyz
 ### Summary
 In this project I ...
 
-### Reference
+### References
 [1] [30-Year Stock Market Data : Kaggle](https://www.kaggle.com/datasets/asimislam/30-yrs-stock-market-data)
 
 [2] [Stock Data w/ Volume : Kaggle](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)
