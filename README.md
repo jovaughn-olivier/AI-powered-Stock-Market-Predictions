@@ -1,10 +1,10 @@
-# DS_Individual
+## DS_Individual
 
-## Introduction
+### Introduction
 
-## Data Selection
+### Data Selection
 
-## Methods
+### Methods
 - method 1
 - method 2
   - method 2.1
@@ -12,20 +12,20 @@
   - method 3.1
   - method 3.2
 
-## Results
+### Results
 
 
-## Discussion
+### Discussion
 ...
 Warning xyz
 ....
 
-## Summary
+### Summary
 In this project I ...
 
-## Reference
-[1] www.link.com
+### Reference
+[1] [30-Year Stock Market Data : Kaggle](https://www.kaggle.com/datasets/asimislam/30-yrs-stock-market-data)
 
-[2] www.2ndlink.com
+[2] [Stock Data w/ Volume : Kaggle](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)
 
-[3] www.yougetit.com
+[3] []()
