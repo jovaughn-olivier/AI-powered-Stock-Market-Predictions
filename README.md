@@ -12,6 +12,8 @@ Throughout this project, I utilize a variety of tools, including Python, pandas,
 
 ### Data Selection
 
+The data processing and modeling were conducted using a Jupyter Notebook and are available [here](https://github.com/jovaughn-olivier/Stocks_and_Data-Science/edit/main/).
+
 ### Methods
 Tools:
 
