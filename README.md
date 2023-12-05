@@ -13,12 +13,14 @@ Throughout this project, I utilize a variety of tools, including Python, pandas,
 ### Data Selection
 
 ### Methods
-- method 1
-- method 2
-  - method 2.1
-- method 3
-  - method 3.1
-  - method 3.2
+Tools:
+
+Data Analysis and Inference: NumPy, SciPy, Pandas, and Scikit-learn
+Deployment and Version Control: GitHub
+IDE: Jupyter Notebook
+Inference methods used with Scikit:
+-  linear regression model
+For our analysis, we utilized the linear regression model provided by Scikit-learn within the Jupyter Notebook environment. Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables. We opted for this method due to its simplicity, interpretability, and effectiveness in capturing linear relationships within the data. However, it's important to note that linear regression assumes a linear association between variables, and deviations from linearity could impact its accuracy. 
 
 ### Results
 
