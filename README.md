@@ -14,6 +14,12 @@ Throughout this project, I utilize a variety of tools, including Python, pandas,
 
 The data processing and modeling were conducted using a Jupyter Notebook and are available [here](https://github.com/jovaughn-olivier/Stocks_and_Data-Science/blob/main/Code/Workspace.ipynb).
 
+The data used to analyze volume's correlation with stock price can be found [here], and the files used contained 5300 - 6800 samples with 7 features: Date, Open, High, Low, Close, Adjusted Close, and Volume.
+
+*The objective is to predict hospital charges. The dataset can found online at git[4]. Many example solutions and analysis can be found at kaggle [5]
+
+Data preview:
+
 ### Methods
 Tools:
 
