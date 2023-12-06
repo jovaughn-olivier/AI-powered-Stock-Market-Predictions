@@ -2,11 +2,11 @@
 
 ## Overview
 
-In this comprehensive project, I delve into a basic stock market analysis, leveraging a dataset spanning 20+ years to extract valuable insights into monthly trends, market sentiment, and the interplay between volume and percent returns on key market indices like SPY, QQQ, and DIA. 
+In this comprehensive project, I delve into a basic stock market analysis, leveraging a dataset spanning 20+ years to extract valuable insights into the stock market.
 
-The primary objective of this undertaking is to unravel patterns, anomalies, and correlations within the extensive stock market data, addressing pivotal questions related to market behavior and volatility.
+As part of my analysis, I explore monthly trends to discern recurring patterns over the decades and investigate the relationship between volatility, VOLQ (Nasdaq Volatility Index), and market downturns. My study also includes a detailed examination of daily volume and percent return correlations for the key market indices, SPY, QQQ, and DIA, aiming to uncover any detectable? patterns or trends. Additionally, a daily average return function is employed to provide a nuanced understanding of daily market dynamics.
 
-As part of the analysis, I explore monthly trends to discern recurring patterns over the decades and investigate the intriguing relationship between the VIX (Volatility Index) and market downturns. The study also includes a detailed examination of weekly volume and percent return correlations for SPY, QQQ, and DIA, aiming to uncover any discernible patterns or trends. Additionally, a daily average return function is employed to provide a nuanced understanding of daily market dynamics.
+This undertaking was inspired by my passion for the markets, and its primary objective is to unravel/reveal patterns, anomalies, and correlations within the extensive stock market data to address pivotal questions related to market behavior.
 
 Throughout this project, I utilized various tools, including Python, Pandas, and other relevant libraries, ensuring transparency and reproducibility in the analytical process. The ensuing sections will expound upon the data selection, methodology, results, and discussions, providing a comprehensive view of the multifaceted analysis conducted on the stock market's historical data.
 
@@ -14,9 +14,9 @@ Throughout this project, I utilized various tools, including Python, Pandas, and
 
 The data processing and modeling were conducted using a Jupyter Notebook and are available [here](https://github.com/jovaughn-olivier/Stocks_and_Data-Science/blob/main/Code/Workspace.ipynb).
 
-The data used to analyze volume's correlation with stock price contained 5300 - 6800 samples with 7 features: Date, Open, High, Low, Close, Adjusted Close, and Volume.
+The data used to analyze volume's correlation with stock price contained 5300–6800 samples with 7 features: Date, Open, High, Low, Close, Adjusted Close, and Volume.
 
-*The objective is to predict hospital charges. The dataset can be found online on Kaggle [[1]](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset). Many examples of solutions and analyses can be found at ??????? [5]
+The dataset can be found online on Kaggle [[1]](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset), where you will also find the script used to collect said data [[2]](https://www.kaggle.com/code/jacksoncrow/download-nasdaq-historical-data/notebook).
 
 Data preview:
 
@@ -45,4 +45,4 @@ In this project I ...
 ## References
 [1] [Stock Data w/ Volume : Kaggle](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)
 
-[2] []()
+[2] [Download NASDAQ historical data](https://www.kaggle.com/code/jacksoncrow/download-nasdaq-historical-data/notebook)
