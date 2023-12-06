@@ -16,7 +16,7 @@ The data processing and modeling were conducted using a Jupyter Notebook and are
 
 The data used to analyze volume's correlation with stock price contained 5300–6800 samples with 7 features: Date, Open, High, Low, Close, Adjusted Close, and Volume.
 
-The dataset can be found online on Kaggle [[1]](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset), where you will also find the script used to collect said data [[2]](https://www.kaggle.com/code/jacksoncrow/download-nasdaq-historical-data/notebook).
+The dataset can be found online on Google's data science competition platform, Kaggle [[1]](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset), where you will also find the script used to collect said data [[2]](https://www.kaggle.com/code/jacksoncrow/download-nasdaq-historical-data/notebook).
 
 Data preview:
 
