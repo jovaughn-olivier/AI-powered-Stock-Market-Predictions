@@ -8,7 +8,7 @@ As part of my analysis, I explore monthly trends to discern recurring patterns o
 
 This undertaking was inspired by my passion for the markets, and its primary objective is to unravel/reveal patterns, anomalies, and correlations within the extensive stock market data to address pivotal questions related to market behavior.
 
-Throughout this project, I utilized various tools, including Python, Pandas, and other relevant libraries, ensuring transparency and reproducibility in the analytical process. The ensuing sections will expound upon the data selection, methodology, results, and discussions, providing a comprehensive view of the multifaceted analysis conducted on the stock market's historical data.
+Throughout this project, I utilized various tools, including Python, Pandas, and other relevant libraries, ensuring transparency and reproducibility in the analytical process. The following sections will expand upon the data selection, methodology, results, and discussions, providing a comprehensive view of the multifaceted analysis conducted on the stock market's historical data.
 
 ## Data Selection
 
