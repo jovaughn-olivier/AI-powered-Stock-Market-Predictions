@@ -2,7 +2,7 @@
 
 ### Overview
 
-In this comprehensive project, I delve into a basic analysis of the stock market, leveraging a dataset spanning 30 years to extract valuable insights into monthly trends, market sentiment, and the interplay between volume and percent returns on key market indices like SPY, QQQ, and DIA. 
+In this comprehensive project, I delve into a basic analysis of the stock market, leveraging a dataset spanning 20+ years to extract valuable insights into monthly trends, market sentiment, and the interplay between volume and percent returns on key market indices like SPY, QQQ, and DIA. 
 
 The primary objective of this undertaking is to unravel patterns, anomalies, and correlations within the extensive stock market data, addressing pivotal questions related to market behavior and volatility.
 
