@@ -16,7 +16,7 @@ The data processing and modeling were conducted using a Jupyter Notebook and are
 
 The data used to analyze volume's correlation with stock price can be found [here], and the files used contained 5300 - 6800 samples with 7 features: Date, Open, High, Low, Close, Adjusted Close, and Volume.
 
-*The objective is to predict hospital charges. The dataset can found online at git[4]. Many example solutions and analysis can be found at kaggle [5]
+*The objective is to predict hospital charges. The dataset can found online on Kaggle[1](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset). Many example solutions and analysis can be found at ??????? [5]
 
 Data preview:
 
@@ -35,15 +35,13 @@ For our analysis, we utilized the linear regression model provided by Scikit-lea
 
 ### Discussion
 ...
-Warning xyz
+xyz
 ....
 
 ### Summary
 In this project I ...
 
 ### References
-[1] [30-Year Stock Market Data : Kaggle](https://www.kaggle.com/datasets/asimislam/30-yrs-stock-market-data)
+[1] [Stock Data w/ Volume : Kaggle](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)
 
-[2] [Stock Data w/ Volume : Kaggle](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)
-
-[3] []()
+[2] []()
