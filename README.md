@@ -19,6 +19,7 @@ The data used to analyze volume's correlation with stock price contained 5300–
 The dataset can be found online on Google's data science competition platform, Kaggle [[1]](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset), as well as the script used to collect the data [[2]](https://www.kaggle.com/code/jacksoncrow/download-nasdaq-historical-data/notebook).
 
 Data preview:
+![data screenshot](./Graphs & Images/stock-data.png)
 
 
 ## Methods
