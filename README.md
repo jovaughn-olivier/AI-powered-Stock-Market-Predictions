@@ -1,4 +1,4 @@
-## DS_Individual
+## Stock Market Predictions
 
 ### Overview
 
