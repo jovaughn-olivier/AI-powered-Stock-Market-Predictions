@@ -32,7 +32,7 @@ Tools:
 Inference methods used with Scikit:
 -  Linear regression model
 
-For my analysis, I utilized the linear regression model provided by Scikit-learn within the Jupyter Notebook environment. Linear regression is the statistical method I chose to model the relationship between a dependent variable and one or more independent variables. We opted for this method due to its simplicity, interpretability, and effectiveness in capturing linear relationships within the data. However, it's important to note that linear regression assumes a linear association between variables, and deviations from linearity could impact its accuracy. 
+For my analysis, I employed Scikit's linear regression model in the Jupyter Notebook to model the relationship between volume and percent change in price. Opting for linear regression due to its simplicity and interpretability, my code calculates the daily percentage change in closing stock prices using the 'Close' column with the pct_change() method, converting decimals to percentages by multiplying by 100. To maintain a clean dataset, I utilized the dropna() method from Pandas to eliminate rows with NaN values resulting from the initial percentage change calculation, ensuring accuracy in further analysis or visualization.
 
 ## Results
 
