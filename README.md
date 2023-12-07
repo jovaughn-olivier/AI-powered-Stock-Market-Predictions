@@ -12,7 +12,7 @@ Throughout this project, I utilized various tools, including Python, Pandas, and
 
 ## Data Selection
 
-The data processing and modeling were conducted using a Jupyter Notebook and are available [here](https://github.com/jovaughn-olivier/Stocks_and_Data-Science/blob/main/Code/Workspace.ipynb).
+The data processing and modeling were conducted using a Jupyter Notebook and are available [here](./Code/Stock-Data-Modeling_Notebook.ipynb).
 
 The data used to analyze volume's correlation with stock price contained 5300–6800 samples with 7 features: Date, Open, High, Low, Close, Adjusted Close, and Volume.
 
