@@ -20,6 +20,10 @@ The dataset can be found online on Google's data science competition platform, K
 
 Data preview:
 ![data screenshot](./Graphs & Images/stock-data.png)
+![data screenshot](https://github.com/jovaughn-olivier/Stocks_and_Data-Science/blob/main/Graphs%20%26%20Images/stock-data.png)
+![data screenshot](%20Graphs%20&%20Images/stock-data.png)
+![data screenshot](./Graphs%20&%20Images/stock-data.png)
+
 
 
 ## Methods
