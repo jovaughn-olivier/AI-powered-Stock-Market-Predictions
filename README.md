@@ -28,23 +28,19 @@ Tools:
 - Data Analysis and Inference: NumPy, SciPy, Pandas, and Scikit
 - Hosting/Version Control: GitHub
 - IDE: Jupyter Notebook
-    
+
 
 Inference methods used with Scikit:
 -  Linear Regression Model
   - For my analysis, I employed Scikit's linear regression model in the Jupyter Notebook to model the relationship between volume and percent change in price. Opting for linear regression due to its simplicity and interpretability, my code calculates the daily percentage change in closing stock prices using the 'Close' column with the pct_change() method, converting decimals to percentages by multiplying by 100. To maintain a clean dataset, I utilized the dropna() method from Pandas to eliminate rows with NaN values resulting from the initial percentage change calculation, ensuring accuracy in further analysis or visualization.
-  - a
-* Item 1
-* Item 2
-* Item 3
-  * Sub Item A
-  * Sub Item B
- 
-- Item 1
+
+- Linear Regression Model
 - Item 2
 - Item 3
-  - Sub Item 1
+  - For my analysis, I employed Scikit's linear regression model in the Jupyter Notebook to model the relationship between volume and percent change in price. Opting for linear regression due to its simplicity and interpretability, my code calculates the daily percentage change in closing stock prices using the 'Close' column with the pct_change() method, converting decimals to percentages by multiplying by 100. To maintain a clean dataset, I utilized the dropna() method from Pandas to eliminate rows with NaN values resulting from the initial percentage change calculation, ensuring accuracy in further analysis or visualization.
   - Sub Item 2
+ 
+
  
 
 ## Results
