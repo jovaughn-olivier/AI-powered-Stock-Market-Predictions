@@ -27,7 +27,7 @@ Data preview:
 Tools:
 - Data Analysis and Inference: NumPy, SciPy, Pandas, and Scikit
 - Hosting/Version Control: GitHub
- -IDE: Jupyter Notebook
+- IDE: Jupyter Notebook
 Inference methods used with Scikit:
 -  Linear regression model
 
