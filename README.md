@@ -35,6 +35,14 @@ Inference methods used with Scikit:
   - Opting for linear regression due to its simplicity and interpretability, my code calculates the daily percentage change in closing stock prices using the 'Close' column with the pct_change() method, converting decimals to percentages by multiplying by 100. To maintain a clean dataset, I utilized the dropna() method from Pandas to eliminate rows with NaN values resulting from the initial percentage change calculation, ensuring accuracy in further analysis or visualization.
  
 
+
+
+- The averaging of the percent changes is done using the groupby function in pandas, which is a powerful tool for aggregating data. Here’s a step-by-step explanation:-
+- Concatenate the dataframes: All the individual dataframes for each ticker are concatenated into one large dataframe. This is done using pd.concat(dfs). The resulting dataframe has an entry for each date for each ticker.
+- Group by date: The groupby('Date') function is used to group the data by date. This means that for each date, all the entries (i.e., percent changes for each ticker) are grouped together.
+- Calculate the mean: The mean() function is then applied to each group. This calculates the average percent change for each date across all tickers. The result is a new dataframe where the index is the date and the ‘PercentChange’ column contains the average percent change for that date.
+- So, if you have three tickers (SPY, DIA, QQQ) and for a particular date, the percent changes are 0.5%, -0.3%, and 0.2%, the average percent change for that date would be (0.5 - 0.3 + 0.2) / 3 = 0.13%.
+- This method gives you the average return of the portfolio consisting of the given tickers, assuming equal weight for each ticker. If the weights are not equal, you would need to calculate a weighted average instead.
  
 
 ## Results
