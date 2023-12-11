@@ -6,11 +6,7 @@ In this comprehensive project, I delve into a comprehensive stock market analysi
 
 As part of my analysis, I explore monthly trends to discern recurring patterns over the decades and investigate the relationship between volume, time of the year, volatility, and percent return correlations for the key market indices, SPY, QQQ, and DIA, aiming to uncover any evident patterns or trends.
 
-
-this is what I wrote but its missing some things and its clear. rewrite this short passage so it explains that analyzing volumes coreelation with the indicies daily return, the effect of the time of year on market conditions, and vixm's percent change, together with the above mentioned factors, to train and evaluate a predictable SciKit model.
-
-In my analysis, I examine the correlation between trading volumes and daily returns of the major market indices S&P 500 ($SPY), QQQ, and DIAalongside the influence of seasonal trends on market behavior. Additionally, I assess the impact of VIXM’s percentage change on these indices. By integrating these elements, I aim to develop and validate a predictive model using SciKit-Learn that can reliably forecast market trends and patterns.
-
+In my analysis, I examine the correlation between trading volumes and daily returns of major market indices: S&P, Nasdaq, and Dow Jones Industrial Average (in the form of $SPY, $QQQ, $DIA), along with the influence of seasonal trends on market behavior. Additionally, I assess the impact of VIXM’s percentage change on these indices. By integrating these elements, I develop and validate a predictive model using SciKit-Learn that can forecast market returns.
 
 This undertaking was inspired by my passion for the markets, and its primary objective is to unravel/reveal patterns, anomalies, and correlations within the extensive stock market data to address pivotal questions related to market behavior.
 
