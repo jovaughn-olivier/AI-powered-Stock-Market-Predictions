@@ -64,7 +64,7 @@ The predictive model demonstrates the capability of deep learning techniques in 
 
 ## Discussion
 Correlation Between Volume and Stock Price: 
-- My research on the correlation between trading volume and stock price is crucial because it provides insights into market liquidity and investor behavior. Above-average and/or increasing trading volume can signal that traders are truly committed to a price move; contrariwise, below-average and/or decreasing volume can signal a lack of enthusiasm. This study found that A strong correlation might suggest that volume can be a leading indicator of price movements, which is valuable for forecasting and risk management. This finding is consistent with existing literature that acknowledges volume as a determinant of price volatility and momentum. It matters because it can help investors and market analysts in making informed decisions.
+- My research on the correlation between trading volume and stock price is crucial because it provides insights into market liquidity and investor behavior. Other researchers have determined that above-average and/or increasing trading volume can signal that traders are truly committed to a price move, and contrariwise, that below-average and/or decreasing volume can signal a lack of enthusiasm. However, those studies have also found inverse relationships between volume and price, which aligns with the results of this study[3]. This study found a correlation that suggests that volume can be a leading indicator of price movements, which is valuable for forecasting. This finding is consistent with existing literature that acknowledges volume as a determinant of price volatility and momentum. Altogether this information helps investors and market analysts in making informed decisions.
 
 Effect of Time of Year on Market Behavior:
 - The analysis of how time of the year affects markets is important as it can reveal temporal trends and calendar effects that influence market behavior. These insights are valuable for portfolio rebalancing and timing market entry or exit. It fits within the broader context of research that explores anomalies like the January effect or the end-of-quarter rebalancing. This study adds to this body of knowledge by providing a more granular view of how each month can impact market performance.
@@ -84,3 +84,5 @@ In this project I ...
 [1] [Stock Data w/ Volume: Kaggle](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)
 
 [2] [Download NASDAQ historical data](https://www.kaggle.com/code/jacksoncrow/download-nasdaq-historical-data/notebook)
+
+[3] [Trading Volume as a Market Indicator](https://www.schwab.com/learn/story/trading-volume-as-market-indicator#:~:text=An%20uptrend%20paired%20with%20increasing,buying%20and%20even%20higher%20prices)
