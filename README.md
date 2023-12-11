@@ -77,7 +77,8 @@ Perspectives for Future Research:
 - Going forward, one could examine the predictive power of seasonal trends with an emphasis on understanding time trends during different market cycles. Additionally, the interplay between VIXM and stock prices could be further investigated in the context of global economic events or policy changes. Future research with neural networks could also include the application of more robust machine learning techniques to enhance predictive models.
 
 ## Summary
-In this project I ...
+
+This research project analyzes over two decades of stock market data, investigating patterns and correlations within major indices like SPY, QQQ, and DIA. Using advanced tools such as Pandas, NumPy, SciPy, Scikit-Learn, TensorFlow, and Keras, the study explores monthly trends, the relationship between trading volumes and returns, and the impact of volatility. Key findings include a statistical relationship between trading volume and daily percent change in stock prices, seasonal trends influencing market performance, and an 84% accurate predictive model, highlighting the effectiveness of deep learning techniques in financial forecasting. The discussion emphasizes the significance of these findings for informed decision-making, contributing valuable insights to financial analytics and offering actionable guidance for investors.
 
 ## References
 [1] [Stock Data w/ Volume: Kaggle](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)
