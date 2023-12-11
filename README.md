@@ -52,9 +52,9 @@ Predictive Modelling with TensorFlow and Keras:
 
 
 ## Discussion
-...
-xyz
-....
+
+What might the answer imply and why does it matter? How does it fit in with what other researchers have found? What are the perspectives for future research?	
+
 
 ## Summary
 In this project I ...
