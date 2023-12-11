@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this comprehensive project, I delve into a basic stock market analysis, leveraging a dataset spanning 20+ years to extract valuable insights into the stock market.
+In this comprehensive project, I delve into a comprehensive stock market analysis, leveraging a dataset spanning 20+ years to extract valuable insights into the stock market.
 
 As part of my analysis, I explore monthly trends to discern recurring patterns over the decades and investigate the relationship between volatility, VOLQ (Nasdaq Volatility Index), and market downturns. My study also includes a detailed examination of daily volume and percent return correlations for the key market indices, SPY, QQQ, and DIA, aiming to uncover any detectable? patterns or trends. Additionally, a daily average return function is employed to provide a nuanced understanding of daily market dynamics.
 
