@@ -31,7 +31,9 @@ Tools:
 - Hosting/Version Control: GitHub
 - IDE: Jupyter Notebook
 
-Inference methods
+
+Inference methods:
+
 
 Graphing with Pandas & Matplotlib:
 - Utilizing the Pandas library for its robust data manipulation capabilities, my work processes financial data from a CSV file to calculate and visualize the monthly returns of individual and (aggregated) sets of ETFs. The code employs Pandas’ read_csv function to load the data, to_datetime for date conversion, and groupby() combined with pct_change to compute the average monthly returns. These returns are then scaled to point values and plotted using Matplotlib, showcasing the power of Pandas in handling and analyzing time-series data for insightful financial trends.
