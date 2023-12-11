@@ -26,13 +26,13 @@ Data preview:
 
 
 ## Methods
-Tools:
+**Tools:**
 - Data Analysis and Inference: NumPy, SciPy, Pandas, and Scikit
 - Hosting/Version Control: GitHub
 - IDE: Jupyter Notebook
+\n
 
-
-Inference methods:
+**Inference methods:**
 
 
 Graphing with Pandas & Matplotlib:
