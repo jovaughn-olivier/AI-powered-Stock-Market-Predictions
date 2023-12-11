@@ -16,7 +16,7 @@ Throughout this project, I utilized various tools, including Python, Pandas, Sci
 
 The data processing and modeling were conducted using a Jupyter Notebook and are available [here](./Code/Stock-Data-Modeling_Notebook.ipynb).
 
-The data used to analyze volume's correlation with stock price contained 5300–6800 samples with 7 features: Date, Open, High, Low, Close, Adjusted Close, and Volume.
+The data used to analyze volume's correlation with stock price contained 5300–6800 samples (18,000)with 7 features: Date, Open, High, Low, Close, Adjusted Close, and Volume.
 
 The dataset can be found online on Google's data science competition platform, Kaggle [[1]](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset), as well as the script used to collect the data [[2]](https://www.kaggle.com/code/jacksoncrow/download-nasdaq-historical-data/notebook).
 
