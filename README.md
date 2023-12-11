@@ -50,11 +50,16 @@ Predictive Modelling with TensorFlow and Keras:
 
 ## Results
 ![change-volume](./Graphs%20&%20Images/pctchange-volume1.png)
+
  The results of the linear regression analysis on $SPY’s percent change by volume reveal a statistical relationship between the trading volume and the daily percent change in stock prices.
+
 ![positive-month](./Graphs%20&%20Images/pctpositive-month.png)
 ![points-month](./Graphs%20&%20Images/points-month.png)
+
 The histogram visualization of $SPY’s proportion of positive returns per month demonstrates the seasonal trends in stock market performance. By calculating the percentage of positive returns for each month and presenting it in a bar chart, the analysis provides a clear visual representation of when the market is more likely to experience gains.
+
 ![predicted-actual](./Graphs%20&%20Images/predicted-actual.png)
+
 The predictive model demonstrates the capability of deep learning techniques in financial forecasting. By training the model on historical data and evaluating its performance using the mean squared error metric, the research provides a quantitative assessment of the model’s effectiveness. I was able to achieve 84% accuracy with the predictive model and 78% accuracy with the 'green/red' (second) model. The findings contribute to a better understanding of the stock market’s behavior and offer a foundation for further exploration in the field of financial analytics.
 
 ## Discussion
