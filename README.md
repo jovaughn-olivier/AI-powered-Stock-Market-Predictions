@@ -63,6 +63,16 @@ The histogram visualization of $SPY’s proportion of positive returns per month
 The predictive model demonstrates the capability of deep learning techniques in financial forecasting. By training the model on historical data and evaluating its performance using the mean squared error metric, the research provides a quantitative assessment of the model’s effectiveness. I was able to achieve 84% accuracy with the predictive model and 78% accuracy with the 'green/red' (second) model. The findings contribute to a better understanding of the stock market’s behavior and offer a foundation for further exploration in the field of financial analytics.
 
 ## Discussion
+Correlation Between Volume and Stock Price: 
+- My research on the correlation between trading volume and stock price is crucial because it provides insights into market liquidity and investor behavior. Above-average and/or increasing trading volume can signal that traders are truly committed to a price move; contrariwise, below-average and/or decreasing volume can signal a lack of enthusiasm. This study found that A strong correlation might suggest that volume can be a leading indicator of price movements, which is valuable for forecasting and risk management. This finding is consistent with existing literature that acknowledges volume as a determinant of price volatility and momentum. It matters because it can help investors and market analysts in making informed decisions.
+
+Effect of Time of Year on Market Behavior:
+- The analysis of how time of the year affects markets is important as it can reveal temporal trends and calendar effects that influence market behavior. These insights are valuable for portfolio rebalancing and timing market entry or exit. It fits within the broader context of research that explores anomalies like the January effect or the end-of-quarter rebalancing. This study adds to this body of knowledge by providing a more granular view of how each month can impact market performance.
+
+Interplay Between VIXM (Volatility) and Stock Price:
+- Understanding the relationship between VIXM and stock prices is significant because it sheds light on how market volatility affects asset valuation. The VIXM, often referred to as the “fear index,” is an important measure of market risk. This study’s findings on this interplay can inform hedging strategies and risk assessment, guiding investors during periods of uncertainty and market turbulence.
+
+Perspectives for Future Research: Your study opens several avenues for future research. One potential direction is to explore the causality between volume and price changes. Another is to examine the predictive power of seasonal trends over different market cycles. Additionally, the interplay between VIXM and stock prices could be further investigated in the context of global economic events or policy changes. Future research could also involve the application of machine learning techniques to enhance predictive models based on your findings.
 
 What might the answer imply and why does it matter? How does it fit in with what other researchers have found? What are the perspectives for future research?	
 
