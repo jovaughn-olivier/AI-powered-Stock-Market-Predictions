@@ -1,7 +1,12 @@
 # Stock Market Predictions
 
-## Overview
+## Abstract
+This research project presents a comprehensive analysis of the stock market, utilizing a dataset that spans over two decades. The study focuses on identifying patterns and correlations between trading volumes, time of the year, volatility, and percent return correlations of major market indices such as SPY, QQQ, and DIA. The project is driven by a passion for financial markets and aims to uncover insights that could potentially inform investment strategies and market understanding.
 
+## Introduction
+The stock market is a complex and dynamic system influenced by various factors. This research delves into an extensive analysis of historical stock market data to explore monthly trends, the relationship between trading volumes and market returns, and the impact of volatility on market behavior. The study employs advanced analytical tools and methodologies to process and interpret the data, seeking to reveal significant patterns and anomalies.
+
+## Overview
 In this comprehensive project, I delve into a comprehensive stock market analysis, leveraging a dataset spanning 20+ years to extract valuable insights into the stock market.
 
 As part of my analysis, I explore monthly trends to discern recurring patterns over the decades and investigate the relationship between volume, time of the year, volatility, and percent return correlations for the key market indices, SPY, QQQ, and DIA, aiming to uncover any evident patterns or trends.
@@ -45,11 +50,12 @@ Predictive Modelling with TensorFlow and Keras:
 
 ## Results
 ![change-volume](./Graphs%20&%20Images/pctchange-volume1.png)
-
+ The results of the linear regression analysis on $SPY’s percent change by volume reveal a statistical relationship between the trading volume and the daily percent change in stock prices.
 ![positive-month](./Graphs%20&%20Images/pctpositive-month.png)
 ![points-month](./Graphs%20&%20Images/points-month.png)
-![predicted-actual](./Graphs%20&%20Images/predicted-actual.png)
 
+![predicted-actual](./Graphs%20&%20Images/predicted-actual.png)
+The predictive model demonstrates the capability of deep learning techniques in financial forecasting. By training the model on historical data and evaluating its performance using the mean squared error metric, the research provides a quantitative assessment of the model’s effectiveness. I was able to achieve 84% accuracy with the predictive model and 78% accuracy with the 'green/red' (second) model. The findings contribute to a better understanding of the stock market’s behavior and offer a foundation for further exploration in the field of financial analytics.
 
 ## Discussion
 
@@ -60,6 +66,6 @@ What might the answer imply and why does it matter? How does it fit in with what
 In this project I ...
 
 ## References
-[1] [Stock Data w/ Volume : Kaggle](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)
+[1] [Stock Data w/ Volume: Kaggle](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)
 
 [2] [Download NASDAQ historical data](https://www.kaggle.com/code/jacksoncrow/download-nasdaq-historical-data/notebook)
