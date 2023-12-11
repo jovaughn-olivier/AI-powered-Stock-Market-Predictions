@@ -63,11 +63,12 @@ The histogram visualization of $SPY’s proportion of positive returns per month
 The predictive model demonstrates the capability of deep learning techniques in financial forecasting. By training the model on historical data and evaluating its performance using the mean squared error metric, the research provides a quantitative assessment of the model’s effectiveness. I was able to achieve 84% accuracy with the predictive model and 78% accuracy with the 'green/red' (second) model. The findings contribute to a better understanding of the stock market’s behavior and offer a foundation for further exploration in the field of financial analytics.
 
 ## Discussion
+
 Correlation Between Volume and Stock Price: 
 - My research on the correlation between trading volume and stock price is crucial because it provides insights into market liquidity and investor behavior. Other researchers have determined that above-average and/or increasing trading volume can signal that traders are truly committed to a price move, and contrariwise, that below-average and/or decreasing volume can signal a lack of enthusiasm. However, those studies have also found inverse relationships between volume and price, which aligns with the results of this study[3]. This study found a correlation that suggests that volume can be a leading indicator of price movements, which is valuable for forecasting. This finding is consistent with existing literature that acknowledges volume as a determinant of price volatility and momentum. Altogether this information helps investors and market analysts in making informed decisions.
 
 Effect of Time of Year on Market Behavior:
-- The analysis of how time of the year affects markets is important as it can reveal temporal trends and calendar effects that influence market behavior. These insights are valuable for portfolio rebalancing and timing market entry or exit. It fits within the broader context of research that explores anomalies like the January effect or the end-of-quarter rebalancing. This study adds to this body of knowledge by providing a more granular view of how each month can impact market performance.
+- The analysis of how time of the year affects markets is important as it can reveal temporal trends and calendar effects that influence market behavior. These insights are valuable for portfolio rebalancing and timing market entry or exit. It fits within the broader context of research that explores anomalies like the January effect or the end-of-quarter rebalancing; Trades That Swing found the same monthly fluxations[4]. This study adds to this body of knowledge by providing a more granular view of how each month can impact market performance.
 
 Interplay Between VIXM (Volatility) and Stock Price:
 - Understanding the relationship between VIXM and stock prices is significant because it sheds light on how market volatility affects asset valuation. The VIXM, often referred to as the “fear index,” is an important measure of market risk. This study’s findings on this interplay can inform hedging strategies and risk assessment, guiding investors during periods of uncertainty and market turbulence.
@@ -84,3 +85,5 @@ In this project I ...
 [2] [Download NASDAQ historical data](https://www.kaggle.com/code/jacksoncrow/download-nasdaq-historical-data/notebook)
 
 [3] [Trading Volume as a Market Indicator](https://www.schwab.com/learn/story/trading-volume-as-market-indicator#:~:text=An%20uptrend%20paired%20with%20increasing,buying%20and%20even%20higher%20prices)
+
+[4] [Best and Worst Months for the Stock Market – Seasonal Patterns](https://tradethatswing.com/seasonal-patterns-of-the-stock-market/)
