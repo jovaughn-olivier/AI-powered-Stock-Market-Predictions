@@ -49,7 +49,7 @@ Predictive Modelling with TensorFlow and Keras:
 
 
 ## Results
-![change-volume](./Graphs%20&%20Images/pctchange-volume1.png)
+![change-volume](./Graphs%20&%20Images/pctchange-volume.png)
 
  The results of the linear regression analysis on $SPY’s percent change by volume reveal a statistical relationship between the trading volume and the daily percent change in stock prices.
 
