@@ -44,7 +44,10 @@ Predictive Modelling with TensorFlow and Keras:
 
 
 ## Results
-picture1
+![](./Graphs%20&%20Images/%change-volume.png)
+![](./Graphs%20&%20Images/%positive-month.png)
+![](./Graphs%20&%20Images/%points-month.png)
+![](./Graphs%20&%20Images/%predicted-actual.png)
 
 
 ## Discussion
