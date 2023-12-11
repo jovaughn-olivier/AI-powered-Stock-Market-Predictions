@@ -72,10 +72,8 @@ Effect of Time of Year on Market Behavior:
 Interplay Between VIXM (Volatility) and Stock Price:
 - Understanding the relationship between VIXM and stock prices is significant because it sheds light on how market volatility affects asset valuation. The VIXM, often referred to as the “fear index,” is an important measure of market risk. This study’s findings on this interplay can inform hedging strategies and risk assessment, guiding investors during periods of uncertainty and market turbulence.
 
-Perspectives for Future Research: One potential direction is to explore the inverse relationships between volume and price changes. Another is to examine the predictive power of seasonal trends over different market cycles. Additionally, the interplay between VIXM and stock prices could be further investigated in the context of global economic events or policy changes. Future research with neural networks could include the application of more robust machine learning techniques to enhance predictive models.
-
-What might the answer imply and why does it matter? How does it fit in with what other researchers have found? What are the perspectives for future research?	
-
+Perspectives for Future Research:
+- Going forward, one could examine the predictive power of seasonal trends with an emphasis on understanding time trends during different market cycles. Additionally, the interplay between VIXM and stock prices could be further investigated in the context of global economic events or policy changes. Future research with neural networks could also include the application of more robust machine learning techniques to enhance predictive models.
 
 ## Summary
 In this project I ...
