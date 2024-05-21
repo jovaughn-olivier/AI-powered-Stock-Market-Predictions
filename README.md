@@ -1,4 +1,4 @@
-# AI-powered Stock Market Predictions
+# Forecasting the Stock Market with Artificial Intelligence (AI)
 
 ## Abstract
 This research project presents a comprehensive analysis of the stock market, utilizing a dataset that spans over two decades. The study focuses on identifying patterns and correlations between trading volumes, time of the year, volatility, and percent return correlations of major market indices such as SPY, QQQ, and DIA. The project is driven by a passion for financial markets and aims to uncover insights that could potentially inform investment strategies and market understanding.
